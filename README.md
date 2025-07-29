@@ -42,8 +42,8 @@
 
 ## 📫 Entre em contato
 
-- 📧 carloseduardo@example.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/seu-perfil/)  
+- 📧 carloseduardev@gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/carlos-eduardo-bb9008305/)  
 - 🌐 Em constante aprendizado e evolução!
 
 ---
